@@ -1,4 +1,4 @@
-# WebsiteTemplate
+# Website Template In Angular 2
 
 ## Getting Stated
 Use the command `npm install` to get all the packages
